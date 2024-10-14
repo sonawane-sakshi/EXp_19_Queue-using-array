@@ -71,4 +71,9 @@ cout<< "Front element after pop: " <<q.peek() <<endl; // Should print 20
 
     return 0;
 }
+/*
+**OUTPUT**
+    Front element: 10
+Front element after pop: 20
+    */
 
