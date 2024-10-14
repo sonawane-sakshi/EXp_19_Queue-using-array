@@ -22,3 +22,8 @@ cout<< "Front element after pop: " <<q.front() <<endl;
 
     return 0;
 }
+/*
+***OUTPUT***
+    Front element: 10
+Front element after pop: 20
+*/
